@@ -1,0 +1,16 @@
+# MongoDB Connection
+MONGO_URI=mongodb+srv://username:password@cluster.mongodb.net/meeting_scheduler?retryWrites=true&w=majority
+
+# Email Configuration (for future email notifications)
+SMTP_SERVER=smtp.gmail.com
+SMTP_PORT=587
+SMTP_USERNAME=your-email@gmail.com
+SMTP_PASSWORD=your-app-password
+
+# Application Settings
+FLASK_ENV=development
+FLASK_DEBUG=True
+SECRET_KEY=your-secret-key-here
+
+# NLP Model
+SPACY_MODEL=en_core_web_sm 
