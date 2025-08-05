@@ -33,7 +33,7 @@ Copy `env_template.txt` to `.env` and configure:
 cp env_template.txt .env
 ```
 
-Edit `.env` with your MongoDB connection string and other settings.
+Edit `.env` with your DB connection string and other settings.
 
 ### 4. Run the Application
 
